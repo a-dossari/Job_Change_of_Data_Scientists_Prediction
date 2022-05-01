@@ -7,6 +7,8 @@ This dataset designed to understand the factors that lead a person to leave curr
 
 The whole data divided to train and test . Target isn't included in test but the test target values data file is in hands for related tasks. A sample submission correspond to enrollee_id of test set provided too with columns : enrollee_id , target
 
+
+
 **Note:**
 
 * The dataset is imbalanced.
